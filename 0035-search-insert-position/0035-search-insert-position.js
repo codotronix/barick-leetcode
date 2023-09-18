@@ -3,6 +3,11 @@
  * @param {number} target
  * @return {number}
  */
+ /**
+   My Simple Solution, BUT NOT O(log n) as required in Question
+   Runtime 51ms Beats 62.87%of users with JavaScript
+   Memory 42.06MB Beats 56.17%of users with JavaScript
+ */
 var searchInsert = function(nums, target) {
     for(let i=0; i<nums.length; ++i) {
         // if target found
