@@ -44,22 +44,58 @@ Memory Usage: 44 MB, less than 14.66% of JavaScript online submissions for Longe
 //     return res
 // };
 
-// Optimal Solution 1
+///////////////////////////////////////////////////////////////////////////////
+
+// Optimal Solution 1, involves sorting
+/*
+Runtime: 59 ms, faster than 39.38% of JavaScript online submissions for Longest Common Prefix.
+Memory Usage: 42.2 MB, less than 69.98% of JavaScript online submissions for Longest Common Prefix.
+*/
+// var longestCommonPrefix = function(strs) {
+//     if(strs.length === 0) return ''
+//     if(strs.length === 1) return strs[0]
+    
+//     // Let's sort the strings
+//     // it will keep the most different strings at 2 terminals of the array
+//     strs = strs.sort()  // IMPORTANT: DO NOT PASS THE COMPARE-FUNC FOR STRING ARRAYS
+    
+//     // Now, let's compare the 1st with the last string
+//     let fstr = strs[0]
+//     let lstr = strs[strs.length-1]
+//     let res = ''    // result string
+//     for(let i=0; i<fstr.length; ++i) {
+//         if(fstr[i] === lstr[i]) res += fstr[i]
+//         else break
+//     }
+//     return res
+// }
+
+///////////////////////////////////////////////////////////////////////////////
+
+// Optimal Solution 2: THE BEST ONE
+/*
+Runtime: 44 ms, faster than 95.97% of JavaScript online submissions for Longest Common Prefix.
+Memory Usage: 42.1 MB, less than 76.70% of JavaScript online submissions for Longest Common Prefix.
+*/
+
 var longestCommonPrefix = function(strs) {
     if(strs.length === 0) return ''
     if(strs.length === 1) return strs[0]
     
-    // Let's sort the strings
-    // it will keep the most different strings at 2 terminals of the array
-    strs = strs.sort()  // IMPORTANT: DO NOT PASS THE COMPARE-FUNC FOR STRING ARRAYS
+    // let's assume the 1st string is the longest common prefix
+    let prefix = strs[0]
     
-    // Now, let's compare the 1st with the last string
-    let fstr = strs[0]
-    let lstr = strs[strs.length-1]
-    let res = ''    // result string
-    for(let i=0; i<fstr.length; ++i) {
-        if(fstr[i] === lstr[i]) res += fstr[i]
-        else break
+    // let's loop thru all other strings
+    for(let i=0; i<strs.length; ++i) {
+        const s = strs[i]   // this string
+        
+        // let's see if the prefix is present in the current string
+        // if not, then how much needs to be shortened
+        while(s.indexOf(prefix) !== 0) {
+            // cut short the prefix by 1 char from the end
+            prefix = prefix.substring(0, prefix.length-1)
+        }
     }
-    return res
+    
+    return prefix
 }
