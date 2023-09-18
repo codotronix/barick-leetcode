@@ -72,7 +72,11 @@ Memory Usage: 42.2 MB, less than 69.98% of JavaScript online submissions for Lon
 
 ///////////////////////////////////////////////////////////////////////////////
 
-// Optimal Solution 2
+// Optimal Solution 2: THE BEST ONE
+/*
+Runtime: 44 ms, faster than 95.97% of JavaScript online submissions for Longest Common Prefix.
+Memory Usage: 42.1 MB, less than 76.70% of JavaScript online submissions for Longest Common Prefix.
+*/
 
 var longestCommonPrefix = function(strs) {
     if(strs.length === 0) return ''
