@@ -25,7 +25,11 @@
 
 //////////////////////////////////////////////////////////////////////
 
-// Solution 2, Binary
+// My Solution 2, Binary, O(log n)
+/**
+  Runtime 44ms Beats 91.45% of users with JavaScript
+  Memory 41.81MB Beats 76.25% of users with JavaScript
+ */
 var searchInsert = function(nums, target) {
     let left = 0
     let right = nums.length-1
