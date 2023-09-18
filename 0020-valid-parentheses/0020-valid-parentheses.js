@@ -12,6 +12,7 @@ var isValid = function(s) {
 
     const stack = []
     // let's make a map of { 'close': 'open' } of bracket pairs
+
     const pairs = {
         ')': '(', '}': '{', ']': '['
     }
@@ -19,7 +20,8 @@ var isValid = function(s) {
     for(let i=0; i<s.length; ++i) {
         const c = s[i]  // current char
         // if it's an opening one
-        if(Object.values(pairs).includes(c)) stack.push(c)
+        // if(Object.values(pairs).includes(c)) stack.push(c)
+        if(c === '(' || c === '{' || c === '[') stack.push(c)
 
         // else a closing one
         else {
