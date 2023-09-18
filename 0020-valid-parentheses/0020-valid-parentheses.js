@@ -2,6 +2,10 @@
  * @param {string} s
  * @return {boolean}
  */
+ /**
+ Runtime 49ms Beats 88.43%of users with JavaScript,
+ Memory 42.92MB Beats 24.51%of users with JavaScript
+  */
 var isValid = function(s) {
     // Single bracket can't pair
     if(s.length <= 1) return false
