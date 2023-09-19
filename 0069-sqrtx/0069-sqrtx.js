@@ -19,6 +19,10 @@
 ////////////////////////////////////////////////////////////////////////////
 
 // My Solution 2 - Binary, O(log n)
+/**
+    Runtime 63ms Beats 64.52% of users with JavaScript
+    Memory 43.70MB Beats 49.86% of users with JavaScript
+ */
 var mySqrt = function(x) {
     if(x<2) return x
 
