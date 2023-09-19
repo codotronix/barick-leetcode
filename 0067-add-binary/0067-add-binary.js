@@ -3,6 +3,11 @@
  * @param {string} b
  * @return {string}
  */
+ /**
+    My Solution 1
+    Runtime 61ms Beats 38.74% of users with JavaScript
+    Memory 43.63MB Beats 51.97% of users with JavaScript
+  */
 var addBinary = function(a, b) {
     // who's long, who's short?
     let [big, small] = a.length > b.length ? [a,b] : [b,a]
