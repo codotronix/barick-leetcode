@@ -3,9 +3,8 @@
  * @return {number[][]}
  */
  /**
-    Simple Array Based Brute Force Solution 
+    Simple Array Based Solution 
     (though I know the binomial formula, will try next....)
-    
     Runtime 58ms Beats 27.99%of users with JavaScript
     Memory 43.16MB Beats 10.78%of users with JavaScript
   */
@@ -44,6 +43,8 @@
 
 /**
     My Solution using Binomial Formula of nCr
+    Runtime 66ms Beats 6.43% of users with JavaScript
+    Memory 43.50MB Beats 8.28% of users with JavaScript
  */
 factMem={}
 var generate = function(numRows) {
@@ -70,7 +71,3 @@ function fact(n) {
     }
     return factMem[n]
 }
-
-
-
-
