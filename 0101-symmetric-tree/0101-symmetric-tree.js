@@ -12,6 +12,7 @@
  */
  /**
     My Simple Recursive Solution
+    Time: 56 ms (77.36%), Space: 44.6 MB (35.93%)
   */
 var isSymmetric = function(root) {
     if(!root.left && !root.right) return true
