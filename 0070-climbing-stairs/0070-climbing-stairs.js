@@ -4,6 +4,7 @@
  */
  /**
     My Solution 1: DP
+    Time: 47 ms (76.78%), Space: 41.4 MB (86.46%)
   */
 var climbStairs = function(n, mem={}) {
     if(n==2) return 2
