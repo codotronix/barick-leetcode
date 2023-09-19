@@ -4,6 +4,7 @@
  */
  /**
     My Simple Array Base Solution
+    Time: 53 ms (50.13%), Space: 41.7 MB (70.75%) 
   */
 var getRow = function(rowIndex) {
     let rowsMap = {
