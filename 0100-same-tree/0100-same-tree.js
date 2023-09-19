@@ -13,6 +13,7 @@
  */
  /**
     My Simple Recursive Solution
+    Time: 50 ms (68.45%), Space: 42.2 MB (41.75%)
   */
 var isSameTree = function(p, q) {
     if(!p && !q) return true
