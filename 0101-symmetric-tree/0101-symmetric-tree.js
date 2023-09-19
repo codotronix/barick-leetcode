@@ -22,8 +22,8 @@ var isSymmetric = function(root) {
     return isMirror(root.left, root.right)
 };
 
-// Helper function to check if branch b1 and b2 are symmetric 
-// OR mirror image of each other
+// Helper function to check if branch b1 and b2 are 
+// mirror image of each other
 function isMirror(b1, b2) {
     if(!b1 && !b2) return true
     if(b1 && !b2) return false
