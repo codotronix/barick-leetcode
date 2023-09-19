@@ -10,6 +10,9 @@
  * @param {TreeNode} root
  * @return {number}
  */
+ /**
+    My simple recursive solution, I LOVE RECURSION
+  */
 var maxDepth = function(root) {
     if(!root) return 0
 
