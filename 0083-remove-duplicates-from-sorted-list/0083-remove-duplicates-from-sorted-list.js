@@ -9,6 +9,12 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
+
+/*
+    My Simple O(n) solution
+    Edited the list in place
+    Time: 58 ms (74.39%), Space: 44.4 MB (23.7%)
+*/
 var deleteDuplicates = function(head) {
     if(!head) return head
     
