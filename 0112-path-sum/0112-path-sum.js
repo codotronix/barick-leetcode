@@ -11,6 +11,10 @@
  * @param {number} targetSum
  * @return {boolean}
  */
+/*
+* My Simple Recursive Solution, I LOVE Recursion
+* Time: 52 ms (92.8%), Space: 46.3 MB (14.65%)
+*/
 var hasPathSum = function(root, targetSum) {
     // if tree is empty
     if(!root) return false
