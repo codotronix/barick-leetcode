@@ -7,7 +7,9 @@
  */
 /**
     My Simple Solution which will take an addional n+m place, time complexity is 2 * O(n+m)
-    
+    I will create a new merged sorted array, and then copy back everything to nums1
+
+    Time: 47 ms (85.59%), Space: 41.6 MB (90.3%)
  */ 
 var merge = function(nums1, m, nums2, n) {
     let res = []
