@@ -18,8 +18,8 @@
 
 ////////////////////////////////////////////////////////////////////////////
 
-// My Solution 2 - Binary, O(log n)
 /**
+    My Solution 2 - Binary, O(log n)
     Time: 58 ms (80.65%), Space: 43.5 MB (72.64%)
  */
 var mySqrt = function(x) {
