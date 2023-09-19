@@ -19,15 +19,18 @@ var isSymmetric = function(root) {
     if(!root.left && root.right) return false
 
     // both left and right branch exists
-    return isSym(root.left, root.right)
+    return isMirror(root.left, root.right)
 };
 
-// helper function to check if branch b1 and b2 are symmetric
-function isSym(b1, b2) {
+// helper function to check if branch b1 and b2 are symmetric 
+// OR mirror image of each other
+function isMirror(b1, b2) {
     if(!b1 && !b2) return true
     if(b1 && !b2) return false
     if(!b1 && b2) return false
     if(b1.val !== b2.val) return false
     
-    return isSym(b1.left, b2.right) && isSym(b1.right, b2.left)
+    // Now we need to compare left to right and vice versa
+    // to get the mirror effect
+    return isMirror(b1.left, b2.right) && isMirror(b1.right, b2.left)
 }
