@@ -12,6 +12,7 @@
  */
  /**
     My simple recursive solution, I LOVE RECURSION
+    Time: 67 ms (22.76%), Space: 45 MB (73.02%)
   */
 var maxDepth = function(root) {
     if(!root) return 0
