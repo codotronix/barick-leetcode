@@ -4,7 +4,7 @@
  * @return {Promise}
  */
  // My Solution 1
- // Runtime: 71 ms
+ // Time: 58 ms (66.08%), Space: 42.1 MB (34.44%)
 var addTwoPromises = async function(promise1, promise2) {
     const a = await promise1
     const b = await promise2
