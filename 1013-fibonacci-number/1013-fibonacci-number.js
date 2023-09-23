@@ -3,10 +3,8 @@
  * @return {number}
  */
  // My Solution Using Recursion
-var fib = function(n, mem={}) {
-    if(n===0) return 0
-    if(n===1) return 1
-
+var fib = function(n, mem={0:0, 1:1}) {
+    
     if(!(n in mem)) {
         mem[n] = fib(n-1, mem) + fib(n-2, mem)
     }
