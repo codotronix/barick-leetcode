@@ -18,23 +18,26 @@ var minCostClimbingStairs = function(costs, currentindex=-1, mem={}) {
     // If starting point can be 0 OR 1
     if(currentindex === -1) {
         // case 1: when starts at zero, SET currentindex=0
-        let cost1 = getMinCost(costs, 0, mem)
+        let i=0
+        let cost1 = costs[i] + Math.min( minCostClimbingStairs(costs, i+1, mem),  minCostClimbingStairs(costs, i+2, mem) )
 
         // case 2: when starts at 1, SET currentindex=1
-        let cost2 = getMinCost(costs, 1, mem)
+        i=1
+        let cost2 = costs[i] + Math.min( minCostClimbingStairs(costs, i+1, mem),  minCostClimbingStairs(costs, i+2, mem) )
 
         // return the min of 2 starting indexes
         mem[currentindex] = Math.min(cost1, cost2)
     }
     else {
         // normal / regular path
-        mem[currentindex] = getMinCost(costs, currentindex, mem)
+        let i=currentindex
+        mem[currentindex] = costs[i] + Math.min( minCostClimbingStairs(costs, i+1, mem),  minCostClimbingStairs(costs, i+2, mem) )
     }
 
     return mem[currentindex]
 };
 
 // helper function, to reduce writing
-function getMinCost(costs, i, mem) {
-    return costs[i] + Math.min( minCostClimbingStairs(costs, i+1, mem),  minCostClimbingStairs(costs, i+2, mem) )
-}
+// function getMinCost(costs, i, mem) {
+//     return costs[i] + Math.min( minCostClimbingStairs(costs, i+1, mem),  minCostClimbingStairs(costs, i+2, mem) )
+// }
