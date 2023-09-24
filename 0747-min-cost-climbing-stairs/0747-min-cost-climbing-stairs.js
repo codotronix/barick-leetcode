@@ -2,7 +2,7 @@
  * @param {number[]} costs
  * @return {number}
  */
- // init currentindex=-1 becaus ethe start index can be 0 or 1
+ // init currentindex=-1 because start index can be 0 or 1
 var minCostClimbingStairs = function(costs, currentindex=-1, mem={}) {
     // end steps
     // already crossed the top?
@@ -13,10 +13,10 @@ var minCostClimbingStairs = function(costs, currentindex=-1, mem={}) {
         return costs[i]
     }
 
-    // we already know cost from this point?
+    // do we already know cost from this point?
     if(i in mem) return mem[i]
 
-    // If starting point can be 0 OR 1
+    // If yet to start, starting point can be 0 OR 1
     if(i === -1) {
         // case 1: when starts at zero, SET currentindex=0
         i=0
@@ -30,7 +30,7 @@ var minCostClimbingStairs = function(costs, currentindex=-1, mem={}) {
         mem[i] = Math.min(cost1, cost2)
     }
     else {
-        // normal / regular path
+        // regular path
         mem[i] = costs[i] + Math.min( minCostClimbingStairs(costs, i+1, mem),  minCostClimbingStairs(costs, i+2, mem) )
     }
 
