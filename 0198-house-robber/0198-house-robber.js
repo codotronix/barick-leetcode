@@ -10,6 +10,7 @@
 var rob = function(nums, currentIndex=-1, mem={}) {
     let i = currentIndex
     // TERMINATING CASES
+    // If there is ONLY 1 HOUSE
     if(nums.length === 1) return nums[0]
     // all houses over?
     if(i >= nums.length) return 0
@@ -21,7 +22,6 @@ var rob = function(nums, currentIndex=-1, mem={}) {
 
     // YET TO START
     // start with either 0 or 1 indexed house
-    // BUT FOR THAT THERE HAS TO BE ATLEAST 2 HOUSES, WHAT IF nums = [2]
     if(i===-1) {
         i=0
         let max1 = nums[i] + Math.max( rob(nums, i+2, mem), rob(nums, i+3, mem) )
