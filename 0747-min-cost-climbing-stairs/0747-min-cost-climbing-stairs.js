@@ -34,7 +34,7 @@ var minCostClimbingStairs = function(costs, currentindex=-1, mem={}) {
     return mem[currentindex]
 };
 
-// helper function, te reduce writing
+// helper function, to reduce writing
 function getMinCost(costs, i, mem) {
     return costs[i] + Math.min( minCostClimbingStairs(costs, i+1, mem),  minCostClimbingStairs(costs, i+2, mem) )
 }
