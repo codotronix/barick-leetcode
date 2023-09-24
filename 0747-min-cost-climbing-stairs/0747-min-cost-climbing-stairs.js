@@ -13,7 +13,7 @@ var minCostClimbingStairs = function(costs, currentindex=-1, mem={}) {
         return costs[i]
     }
 
-    // do we already know cost from this point?
+    // do we already know cost from this index?
     if(i in mem) return mem[i]
 
     // If yet to start, starting point can be 0 OR 1
