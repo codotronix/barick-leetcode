@@ -31,7 +31,6 @@ var minCostClimbingStairs = function(costs, currentindex=-1, mem={}) {
         mem[currentindex] = getMinCost(costs, currentindex, mem)
     }
 
-    // finally return
     return mem[currentindex]
 };
 
