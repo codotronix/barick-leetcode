@@ -21,7 +21,7 @@ class Solution {
         }
 
         /**
-            For POST ORDER we first print the right, then left, then center 
+             POST ORDER is LEFT, RIGHT, CENTER 
          */
         List<Integer> nodes = new ArrayList<>(); 
         // go down the left subtree
