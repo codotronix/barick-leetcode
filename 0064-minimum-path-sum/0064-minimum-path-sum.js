@@ -7,7 +7,7 @@ var minPathSum = function(grid, y=0, x=0, mem={}) {
     const ly = grid.length-1, lx = grid[0].length-1
 
     // if out of bounds, infinite cost
-    if(y > ly || x > lx) return Number.MAX_SAFE_INTEGER
+    if(y > ly || x > lx) return Number.MAX_VALUE
 
     // if already at the end, take that cost
     if(y===ly && x===lx) return grid[y][x]
