@@ -12,11 +12,12 @@ var minPathSum = function(grid, y=0, x=0, mem={}) {
     // if already at the end, take that cost
     if(y===ly && x===lx) return grid[y][x]
 
-    if(!([y,x] in mem)) {
+    const key = y + '_' + x
+    if(!(key in mem)) {
         // now calc for all other cases
         // Min cost = current cell + Min(rightPath, downPath)
-        mem[[y,x]] = grid[y][x] + Math.min( minPathSum(grid, y+1, x, mem), minPathSum(grid, y, x+1, mem) )
+        mem[key] = grid[y][x] + Math.min( minPathSum(grid, y+1, x, mem), minPathSum(grid, y, x+1, mem) )
     }
 
-    return mem[[y,x]]
+    return mem[key]
 };
