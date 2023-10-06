@@ -4,6 +4,7 @@
  */
 var uniquePathsIII = function(grid) {
     // let's find the starting square first
+    // and also how many cells one can move into
     let x0=0, y0=0, movableCells=0
 
     for(let y=0; y<grid.length; ++y) {
@@ -36,13 +37,10 @@ function findUniqPaths(grid, nextY, nextX, currentPath, movableCells, runningCou
     if(grid[nextY][nextX] === -1) return 0
     // reached?
     // the path is unique ?
-    // AND it has touched all the empty squares?
+    // AND it has touched all the movable Cells?
     if(grid[nextY][nextX] === 2) 
     {   
         if(runningCount+1 === movableCells) {
-            // console.log('1----------------------------------')
-            // console.log('nextY=',nextY, ', nextX=', nextX)
-            // console.log(currentPath)
             return 1
         }
         else return 0
