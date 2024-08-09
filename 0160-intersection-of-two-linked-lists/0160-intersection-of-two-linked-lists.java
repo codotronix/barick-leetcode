@@ -27,33 +27,16 @@ public class Solution {
         ListNode p1 = headA;
         ListNode p2 = headB;
 
-        Boolean p1Switched = false;
-        Boolean p2Switched = false;
-
-        // since (A+B) is of same length of (B+A)
-        // does not matter which pointer we check for termination
-        while (p1 != null && p2 != null) {
-            // match/intersection found? break
-            if(p1 == p2) {
-                break;
-            }
-            // else move on
-            p1 = p1.next;
-            p2 = p2.next;
-
-            // both of them cannot be null at the SAME time if they have intersection
-            // end reached for any of them?
-            // start with the next 
-            if(p1 == null && !p1Switched) {
-                p1 = headB;
-                p1Switched = true;
-            }
-            if(p2 == null && !p2Switched) {
-                p2 = headA;
-                p2Switched = true;
-            }
+        // p1 and p2 will be equal only iff ---
+        // either intersection point is found...
+        // OR
+        // they are both of equal length and both reached null (i.e. no intersection)
+        while (p1 != p2) {
+            p1 = p1 != null ? p1.next : headB;
+            p2 = p2 != null ? p2.next : headA;
         }
 
+        // if they match it's p1==p2 or both are null (no intersection)
         return p1;
     }
 }
