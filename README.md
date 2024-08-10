@@ -28,6 +28,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/codotronix/barick-leetcode/tree/master/0049-group-anagrams) |
+| [0238-product-of-array-except-self](https://github.com/codotronix/barick-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/codotronix/barick-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -58,4 +59,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/codotronix/barick-leetcode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/codotronix/barick-leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
