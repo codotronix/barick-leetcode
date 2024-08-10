@@ -18,6 +18,7 @@ My leetcode solutions
 | ------- |
 | [0125-valid-palindrome](https://github.com/codotronix/barick-leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/codotronix/barick-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/codotronix/barick-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0908-middle-of-the-linked-list](https://github.com/codotronix/barick-leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ My leetcode solutions
 | [0036-valid-sudoku](https://github.com/codotronix/barick-leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/codotronix/barick-leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/codotronix/barick-leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/codotronix/barick-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/codotronix/barick-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/codotronix/barick-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -77,4 +79,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/codotronix/barick-leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/codotronix/barick-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
