@@ -3,6 +3,8 @@
  * @return {number}
  */
 var longestConsecutive = function(nums) {
+    if(nums.length === 0) return 0
+
     // Let's put all the numbers in an object for O(1) lookup
     let map = {}
     for(const n of nums) map[n] = true
