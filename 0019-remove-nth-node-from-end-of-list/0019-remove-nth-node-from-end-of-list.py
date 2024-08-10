@@ -7,15 +7,15 @@ class Solution:
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
         # Logic -- Barick
         # take a fast and a slow pointer
-        # if create a distance of N-1 between them
-        # they will be at Nth position from each other.
-        # Let's create additional +1 distance, i.e. N-1+1 = N
-        # so that, when the fast pointer reaches last node,
+        # if create a distance of N+1 between them
+        # when the fast pointer reaches last node,
         # we'll know that need to remove the slow+1 node
         slow = head
         fast = head
 
-        # move fast to (n)th node
+        # both fast and slow is at 1 i.e. head
+        # move fast to another n positions ahead
+        # so the distance becomes N+1
         for i in range(n):
             if fast is None:
                 break
