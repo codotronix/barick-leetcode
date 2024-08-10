@@ -21,12 +21,14 @@ My leetcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/codotronix/barick-leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/codotronix/barick-leetcode/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/codotronix/barick-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/codotronix/barick-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/codotronix/barick-leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/codotronix/barick-leetcode/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/codotronix/barick-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/codotronix/barick-leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -63,4 +65,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/codotronix/barick-leetcode/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/codotronix/barick-leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
