@@ -8,7 +8,7 @@ var longestConsecutive = function(nums) {
     // Let's put all the numbers in an object for O(1) lookup
     let map = {}
     for(const n of nums) map[n] = true
-    // let numSet = new Set(nums)  // We could also use Set
+    // let numSet = new Set(nums)  // We could also use Set, but for me normal Object gave faster time in leetcode
 
     // now let's go thru each numbers
     let maxL = 0
