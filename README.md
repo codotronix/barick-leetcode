@@ -104,8 +104,13 @@ My leetcode solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codotronix/barick-leetcode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/codotronix/barick-leetcode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codotronix/barick-leetcode/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/codotronix/barick-leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
