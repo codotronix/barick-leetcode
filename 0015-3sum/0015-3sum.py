@@ -5,6 +5,7 @@ class Solution:
 
         # to prevent duplicates
         tripletsMap = {}
+        # trilets = []
 
         for i in range(len(nums)):
             # to prevent duplicate triplets,
@@ -23,6 +24,7 @@ class Solution:
                 if total == 0:
                     triplet = [nums[i], nums[l], nums[r]]
                     tripletsMap[str(triplet)] = triplet
+                    # trilets.append(triplet)
                     l += 1
                     r -= 1
                 # too low?
@@ -33,6 +35,7 @@ class Solution:
                     r -= 1
 
         return list(tripletsMap.values())
+        # return trilets
                 
 
             
