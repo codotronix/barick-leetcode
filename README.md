@@ -51,6 +51,7 @@ My leetcode solutions
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/codotronix/barick-leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/codotronix/barick-leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/codotronix/barick-leetcode/tree/master/0125-valid-palindrome) |
 ## Sorting
@@ -102,6 +103,7 @@ My leetcode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/codotronix/barick-leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/codotronix/barick-leetcode/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -119,4 +121,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/codotronix/barick-leetcode/tree/master/0155-min-stack) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/codotronix/barick-leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
