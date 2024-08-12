@@ -13,6 +13,7 @@ My leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/codotronix/barick-leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codotronix/barick-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/codotronix/barick-leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
@@ -105,6 +106,7 @@ My leetcode solutions
 | ------- |
 | [0022-generate-parentheses](https://github.com/codotronix/barick-leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/codotronix/barick-leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/codotronix/barick-leetcode/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -125,4 +127,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/codotronix/barick-leetcode/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/codotronix/barick-leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
