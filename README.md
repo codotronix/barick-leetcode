@@ -8,6 +8,7 @@ My leetcode solutions
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/codotronix/barick-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/codotronix/barick-leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0143-reorder-list](https://github.com/codotronix/barick-leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/codotronix/barick-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/codotronix/barick-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/codotronix/barick-leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -25,6 +26,7 @@ My leetcode solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/codotronix/barick-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/codotronix/barick-leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/codotronix/barick-leetcode/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/codotronix/barick-leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/codotronix/barick-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codotronix/barick-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/codotronix/barick-leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -116,6 +118,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codotronix/barick-leetcode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/codotronix/barick-leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codotronix/barick-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/codotronix/barick-leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/codotronix/barick-leetcode/tree/master/0739-daily-temperatures) |
@@ -140,4 +143,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/codotronix/barick-leetcode/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/codotronix/barick-leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
