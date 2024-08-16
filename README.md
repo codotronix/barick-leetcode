@@ -26,6 +26,7 @@ My leetcode solutions
 | [0125-valid-palindrome](https://github.com/codotronix/barick-leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/codotronix/barick-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codotronix/barick-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/codotronix/barick-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/codotronix/barick-leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ My leetcode solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/codotronix/barick-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codotronix/barick-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/codotronix/barick-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/codotronix/barick-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/codotronix/barick-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/codotronix/barick-leetcode/tree/master/0739-daily-temperatures) |
 ## String
@@ -97,6 +99,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codotronix/barick-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/codotronix/barick-leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -131,4 +134,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/codotronix/barick-leetcode/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/codotronix/barick-leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
