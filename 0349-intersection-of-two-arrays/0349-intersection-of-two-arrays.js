@@ -4,8 +4,8 @@
  * @return {number[]}
  */
 var intersection = function(nums1, nums2) {
-    nums1 = new Set(nums1)
-    nums2 = new Set(nums2)
+    // nums1 = new Set(nums1)
+    // nums2 = new Set(nums2)
     let m = {}
     let r = []
     // first list
