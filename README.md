@@ -80,6 +80,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/codotronix/barick-leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0190-reverse-bits](https://github.com/codotronix/barick-leetcode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/codotronix/barick-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -159,6 +160,7 @@ My leetcode solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/codotronix/barick-leetcode/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/codotronix/barick-leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
