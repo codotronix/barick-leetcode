@@ -71,6 +71,7 @@ My leetcode solutions
 | [0792-binary-search](https://github.com/codotronix/barick-leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/codotronix/barick-leetcode/tree/master/0883-car-fleet) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/codotronix/barick-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/codotronix/barick-leetcode/tree/master/1293-three-consecutive-odds) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/codotronix/barick-leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/codotronix/barick-leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## String
