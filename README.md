@@ -21,6 +21,7 @@ My leetcode solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/codotronix/barick-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0342-power-of-four](https://github.com/codotronix/barick-leetcode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/codotronix/barick-leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/codotronix/barick-leetcode/tree/master/1448-maximum-69-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +135,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/codotronix/barick-leetcode/tree/master/0011-container-with-most-water) |
+| [1448-maximum-69-number](https://github.com/codotronix/barick-leetcode/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
