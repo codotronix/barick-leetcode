@@ -76,6 +76,7 @@ My leetcode solutions
 | [0049-group-anagrams](https://github.com/codotronix/barick-leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/codotronix/barick-leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/codotronix/barick-leetcode/tree/master/0344-reverse-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/codotronix/barick-leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Sorting
 |  |
 | ------- |
