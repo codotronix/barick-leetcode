@@ -21,6 +21,7 @@ My leetcode solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/codotronix/barick-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0342-power-of-four](https://github.com/codotronix/barick-leetcode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/codotronix/barick-leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/codotronix/barick-leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/codotronix/barick-leetcode/tree/master/1448-maximum-69-number) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@ My leetcode solutions
 | [0883-car-fleet](https://github.com/codotronix/barick-leetcode/tree/master/0883-car-fleet) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/codotronix/barick-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/codotronix/barick-leetcode/tree/master/1293-three-consecutive-odds) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/codotronix/barick-leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2215-finding-3-digit-even-numbers](https://github.com/codotronix/barick-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/codotronix/barick-leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/codotronix/barick-leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
