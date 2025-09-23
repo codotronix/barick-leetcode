@@ -1,7 +1,7 @@
 class Solution:
     def maxFreqSum(self, s: str) -> int:
         v = { x: 0 for x in 'aeiou' }
-        c = { 'b': 0 }
+        c = { 'b': 0 } # putting 1 item otherwise max([]) will throw err
 
         for a in s:
             # if a is a vowel
