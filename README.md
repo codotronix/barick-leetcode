@@ -77,6 +77,7 @@ My leetcode solutions
 | [0347-top-k-frequent-elements](https://github.com/codotronix/barick-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/codotronix/barick-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codotronix/barick-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/codotronix/barick-leetcode/tree/master/0414-third-maximum-number) |
 | [0739-daily-temperatures](https://github.com/codotronix/barick-leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/codotronix/barick-leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/codotronix/barick-leetcode/tree/master/0883-car-fleet) |
@@ -109,6 +110,7 @@ My leetcode solutions
 | [0349-intersection-of-two-arrays](https://github.com/codotronix/barick-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codotronix/barick-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/codotronix/barick-leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/codotronix/barick-leetcode/tree/master/0414-third-maximum-number) |
 | [0883-car-fleet](https://github.com/codotronix/barick-leetcode/tree/master/0883-car-fleet) |
 | [2215-finding-3-digit-even-numbers](https://github.com/codotronix/barick-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Divide and Conquer
