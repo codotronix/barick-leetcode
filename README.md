@@ -53,6 +53,7 @@ My leetcode solutions
 | [0347-top-k-frequent-elements](https://github.com/codotronix/barick-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/codotronix/barick-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codotronix/barick-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/codotronix/barick-leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/codotronix/barick-leetcode/tree/master/0389-find-the-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/codotronix/barick-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/codotronix/barick-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -95,6 +96,7 @@ My leetcode solutions
 | [0151-reverse-words-in-a-string](https://github.com/codotronix/barick-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/codotronix/barick-leetcode/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/codotronix/barick-leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/codotronix/barick-leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/codotronix/barick-leetcode/tree/master/0389-find-the-difference) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/codotronix/barick-leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/codotronix/barick-leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -129,6 +131,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/codotronix/barick-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/codotronix/barick-leetcode/tree/master/0383-ransom-note) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/codotronix/barick-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/codotronix/barick-leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/codotronix/barick-leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
