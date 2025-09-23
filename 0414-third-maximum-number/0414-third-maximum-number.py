@@ -31,4 +31,6 @@ class Solution:
             else:
                 c = max(c, n)
 
+        # return highest if 3rd highest is not there
+        # else return the 3rd highest
         return a if c is None else c
