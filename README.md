@@ -53,6 +53,7 @@ My leetcode solutions
 | [1227-number-of-equivalent-domino-pairs](https://github.com/codotronix/barick-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/codotronix/barick-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/codotronix/barick-leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/codotronix/barick-leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +90,7 @@ My leetcode solutions
 | [0165-compare-version-numbers](https://github.com/codotronix/barick-leetcode/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/codotronix/barick-leetcode/tree/master/0344-reverse-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/codotronix/barick-leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/codotronix/barick-leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +122,7 @@ My leetcode solutions
 | [0347-top-k-frequent-elements](https://github.com/codotronix/barick-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/codotronix/barick-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/codotronix/barick-leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/codotronix/barick-leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
 | ------- |
