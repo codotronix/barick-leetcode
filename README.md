@@ -68,6 +68,7 @@ My leetcode solutions
 | [0042-trapping-rain-water](https://github.com/codotronix/barick-leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/codotronix/barick-leetcode/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/codotronix/barick-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0120-triangle](https://github.com/codotronix/barick-leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codotronix/barick-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/codotronix/barick-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codotronix/barick-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -172,6 +173,7 @@ My leetcode solutions
 | [0022-generate-parentheses](https://github.com/codotronix/barick-leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/codotronix/barick-leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/codotronix/barick-leetcode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/codotronix/barick-leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codotronix/barick-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
