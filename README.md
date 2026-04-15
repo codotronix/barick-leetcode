@@ -82,6 +82,7 @@ My leetcode solutions
 | [0349-intersection-of-two-arrays](https://github.com/codotronix/barick-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codotronix/barick-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/codotronix/barick-leetcode/tree/master/0414-third-maximum-number) |
+| [0704-binary-search](https://github.com/codotronix/barick-leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/codotronix/barick-leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/codotronix/barick-leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/codotronix/barick-leetcode/tree/master/0883-car-fleet) |
@@ -165,6 +166,7 @@ My leetcode solutions
 | [0287-find-the-duplicate-number](https://github.com/codotronix/barick-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codotronix/barick-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codotronix/barick-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/codotronix/barick-leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/codotronix/barick-leetcode/tree/master/0792-binary-search) |
 ## Greedy
 |  |
