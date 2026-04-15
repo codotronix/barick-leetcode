@@ -17,6 +17,7 @@ My leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/codotronix/barick-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/codotronix/barick-leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/codotronix/barick-leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codotronix/barick-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
