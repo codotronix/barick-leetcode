@@ -3,20 +3,19 @@
  * @return {number}
  */
 var removeDuplicates = function(nums) {
-    let i = 0   // the 0th element is uniq
-    let j = 1   // the moving index
+    let i=0, j=0;
     while(j < nums.length) {
-        // if a uniq number found
-        // increment i 
-        // and put that new number in this new i
+        // if a new element is found
         if(nums[j] !== nums[i]) {
-            ++i
-            nums[i] = nums[j]
+            // then copy it on the next place
+            ++i;
+            nums[i] = nums[j];
         }
 
-        // in any case, keep j moving
-        ++j
+        // move j to the next element
+        ++j;
     }
 
-    return i+1  // since i was last uniq index
+    // returning the number of uniq elements
+    return i+1;
 };
