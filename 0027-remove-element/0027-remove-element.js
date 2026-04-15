@@ -4,21 +4,23 @@
  * @return {number}
  */
 var removeElement = function(nums, val) {
-    if(nums.length === 0) return 0
-
-    let i=-1    // pointing to the last found diff num
-    let j=0
+    let i=0; // where val was found;
+    let j=0; // keep moving, keep looking
     while(j < nums.length) {
-        // if a different number is found
-        // put it after the last i
+        // a non-val found?
         if(nums[j] !== val) {
-            ++i
             nums[i] = nums[j]
+            ++i;
         }
+        // else if j found a val, but i is still sitting on a non-val
+        // point i to this place
+        // else if (nums[i] !== val) {
+        //     i = j;
+        // }
 
-        // in any case keep forwarding j
-        ++j
+        // keep moving
+        ++j;
     }
 
-    return i+1
+    return i;
 };
