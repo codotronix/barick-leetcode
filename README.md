@@ -12,6 +12,7 @@ My leetcode solutions
 | [0138-copy-list-with-random-pointer](https://github.com/codotronix/barick-leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/codotronix/barick-leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/codotronix/barick-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/codotronix/barick-leetcode/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/codotronix/barick-leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/codotronix/barick-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/codotronix/barick-leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -252,6 +253,7 @@ My leetcode solutions
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/codotronix/barick-leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/codotronix/barick-leetcode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/codotronix/barick-leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/codotronix/barick-leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/codotronix/barick-leetcode/tree/master/0342-power-of-four) |
 ## Merge Sort
