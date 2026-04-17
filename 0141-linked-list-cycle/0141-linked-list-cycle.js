@@ -11,25 +11,17 @@
  * @return {boolean}
  */
 var hasCycle = function(head) {
-    // This is the famous The Rabbit and The Tortoise problem
-        // The rabbit moves 2 step at a time
-        // The tortoise moves 1 step at a time
-        // If they race in a linear path R will never meet T again
-        // But if the path is circular, then definitely R will meet T again
-        let r = head, t = head // initially both Rabbit and Tortoise is on first node
+    // if single node or no node at all
+    if(!head || !head.next) return false;
+    let slow = head;    // will move 1 step at a time
+    let fast = head.next;    // will move 2 steps at a time
 
-        // check r.next also since Rabbit moves 2 step at a time
-        while(t !== null && r !== null && r.next !== null) {
-            // tortoise takes a step
-            t = t.next
+    while(slow && fast) {
+        if(slow === fast) return true; // they meet? Circle detected
+        slow = slow.next;
+        if(!fast.next) break;
+        fast = fast.next.next;
+    }
 
-            // rabbit takes 2 steps
-            r = r.next.next
-
-            // if they meet but not in null, cycle found
-            if(r !== null && r === t) return true
-        }
-
-        // null found, hence no cycle
-        return false
+    return false;
 };
