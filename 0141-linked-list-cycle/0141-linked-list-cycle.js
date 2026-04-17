@@ -13,8 +13,8 @@
 var hasCycle = function(head) {
     // if single node or no node at all
     if(!head || !head.next) return false;
-    let slow = head;    // will move 1 step at a time
-    let fast = head.next;    // will move 2 steps at a time
+    let slow = head;                // will move 1 step at a time
+    let fast = head.next.next;    // will move 2 steps at a time
 
     while(slow && fast) {
         if(slow === fast) return true; // they meet? Circle detected
