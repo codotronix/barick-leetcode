@@ -22,6 +22,7 @@ My leetcode solutions
 | [0070-climbing-stairs](https://github.com/codotronix/barick-leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codotronix/barick-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/codotronix/barick-leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/codotronix/barick-leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/codotronix/barick-leetcode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/codotronix/barick-leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/codotronix/barick-leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -57,6 +58,7 @@ My leetcode solutions
 | [0128-longest-consecutive-sequence](https://github.com/codotronix/barick-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/codotronix/barick-leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/codotronix/barick-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/codotronix/barick-leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/codotronix/barick-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/codotronix/barick-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codotronix/barick-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -85,6 +87,7 @@ My leetcode solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/codotronix/barick-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codotronix/barick-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/codotronix/barick-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/codotronix/barick-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/codotronix/barick-leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/codotronix/barick-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/codotronix/barick-leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -124,6 +127,7 @@ My leetcode solutions
 | [0015-3sum](https://github.com/codotronix/barick-leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/codotronix/barick-leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/codotronix/barick-leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/codotronix/barick-leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/codotronix/barick-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/codotronix/barick-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codotronix/barick-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -179,6 +183,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codotronix/barick-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/codotronix/barick-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/codotronix/barick-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codotronix/barick-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codotronix/barick-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -232,6 +237,7 @@ My leetcode solutions
 | [0190-reverse-bits](https://github.com/codotronix/barick-leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/codotronix/barick-leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/codotronix/barick-leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/codotronix/barick-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/codotronix/barick-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/codotronix/barick-leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/codotronix/barick-leetcode/tree/master/0389-find-the-difference) |
