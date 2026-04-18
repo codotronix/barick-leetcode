@@ -87,6 +87,7 @@ My leetcode solutions
 | [1796-second-largest-digit-in-a-string](https://github.com/codotronix/barick-leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/codotronix/barick-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/codotronix/barick-leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/codotronix/barick-leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/codotronix/barick-leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
@@ -144,6 +145,7 @@ My leetcode solutions
 | [1796-second-largest-digit-in-a-string](https://github.com/codotronix/barick-leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/codotronix/barick-leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2942-find-words-containing-character](https://github.com/codotronix/barick-leetcode/tree/master/2942-find-words-containing-character) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/codotronix/barick-leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/codotronix/barick-leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -186,6 +188,7 @@ My leetcode solutions
 | [0383-ransom-note](https://github.com/codotronix/barick-leetcode/tree/master/0383-ransom-note) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/codotronix/barick-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/codotronix/barick-leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/codotronix/barick-leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/codotronix/barick-leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
