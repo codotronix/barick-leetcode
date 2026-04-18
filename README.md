@@ -40,6 +40,7 @@ My leetcode solutions
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/codotronix/barick-leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/codotronix/barick-leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/codotronix/barick-leetcode/tree/master/1448-maximum-69-number) |
+| [1903-largest-odd-number-in-string](https://github.com/codotronix/barick-leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,6 +147,7 @@ My leetcode solutions
 | [0771-jewels-and-stones](https://github.com/codotronix/barick-leetcode/tree/master/0771-jewels-and-stones) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/codotronix/barick-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/codotronix/barick-leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/codotronix/barick-leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/codotronix/barick-leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2942-find-words-containing-character](https://github.com/codotronix/barick-leetcode/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/codotronix/barick-leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -226,6 +228,7 @@ My leetcode solutions
 | [0011-container-with-most-water](https://github.com/codotronix/barick-leetcode/tree/master/0011-container-with-most-water) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/codotronix/barick-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/codotronix/barick-leetcode/tree/master/1448-maximum-69-number) |
+| [1903-largest-odd-number-in-string](https://github.com/codotronix/barick-leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
