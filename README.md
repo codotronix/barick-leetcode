@@ -123,6 +123,7 @@ My leetcode solutions
 | [1293-three-consecutive-odds](https://github.com/codotronix/barick-leetcode/tree/master/1293-three-consecutive-odds) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/codotronix/barick-leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2215-finding-3-digit-even-numbers](https://github.com/codotronix/barick-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2942-find-words-containing-character](https://github.com/codotronix/barick-leetcode/tree/master/2942-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/codotronix/barick-leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/codotronix/barick-leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## String
@@ -140,6 +141,7 @@ My leetcode solutions
 | [0389-find-the-difference](https://github.com/codotronix/barick-leetcode/tree/master/0389-find-the-difference) |
 | [1796-second-largest-digit-in-a-string](https://github.com/codotronix/barick-leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/codotronix/barick-leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2942-find-words-containing-character](https://github.com/codotronix/barick-leetcode/tree/master/2942-find-words-containing-character) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/codotronix/barick-leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
