@@ -82,6 +82,7 @@ My leetcode solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/codotronix/barick-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/codotronix/barick-leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/codotronix/barick-leetcode/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/codotronix/barick-leetcode/tree/master/0771-jewels-and-stones) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/codotronix/barick-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/codotronix/barick-leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/codotronix/barick-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -139,6 +140,7 @@ My leetcode solutions
 | [0344-reverse-string](https://github.com/codotronix/barick-leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/codotronix/barick-leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/codotronix/barick-leetcode/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/codotronix/barick-leetcode/tree/master/0771-jewels-and-stones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/codotronix/barick-leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/codotronix/barick-leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2942-find-words-containing-character](https://github.com/codotronix/barick-leetcode/tree/master/2942-find-words-containing-character) |
