@@ -142,6 +142,7 @@ My leetcode solutions
 | [0383-ransom-note](https://github.com/codotronix/barick-leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/codotronix/barick-leetcode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/codotronix/barick-leetcode/tree/master/0771-jewels-and-stones) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/codotronix/barick-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/codotronix/barick-leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/codotronix/barick-leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2942-find-words-containing-character](https://github.com/codotronix/barick-leetcode/tree/master/2942-find-words-containing-character) |
@@ -186,6 +187,7 @@ My leetcode solutions
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/codotronix/barick-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/codotronix/barick-leetcode/tree/master/0383-ransom-note) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/codotronix/barick-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/codotronix/barick-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/codotronix/barick-leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/codotronix/barick-leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -220,6 +222,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/codotronix/barick-leetcode/tree/master/0011-container-with-most-water) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/codotronix/barick-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/codotronix/barick-leetcode/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
