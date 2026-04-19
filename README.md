@@ -95,6 +95,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/codotronix/barick-leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/codotronix/barick-leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/codotronix/barick-leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codotronix/barick-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codotronix/barick-leetcode/tree/master/0027-remove-element) |
@@ -134,6 +135,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codotronix/barick-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/codotronix/barick-leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/codotronix/barick-leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/codotronix/barick-leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/codotronix/barick-leetcode/tree/master/0058-length-of-last-word) |
@@ -313,4 +315,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/codotronix/barick-leetcode/tree/master/0912-sort-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/codotronix/barick-leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
