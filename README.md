@@ -78,6 +78,7 @@ My leetcode solutions
 | [0138-copy-list-with-random-pointer](https://github.com/codotronix/barick-leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/codotronix/barick-leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/codotronix/barick-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/codotronix/barick-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codotronix/barick-leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/codotronix/barick-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/codotronix/barick-leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -142,6 +143,7 @@ My leetcode solutions
 | [0125-valid-palindrome](https://github.com/codotronix/barick-leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/codotronix/barick-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/codotronix/barick-leetcode/tree/master/0165-compare-version-numbers) |
+| [0242-valid-anagram](https://github.com/codotronix/barick-leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/codotronix/barick-leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/codotronix/barick-leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/codotronix/barick-leetcode/tree/master/0389-find-the-difference) |
@@ -160,6 +162,7 @@ My leetcode solutions
 | [0015-3sum](https://github.com/codotronix/barick-leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/codotronix/barick-leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/codotronix/barick-leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/codotronix/barick-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codotronix/barick-leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/codotronix/barick-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/codotronix/barick-leetcode/tree/master/0349-intersection-of-two-arrays) |
