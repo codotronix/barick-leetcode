@@ -3,17 +3,12 @@
  * @return {string[][]}
  */
 var groupAnagrams = function(strs) {
-    const m = {}
-
-    for (let s of strs) {
-        const sortedS = s.split('').sort().join('')
-
-        if(!(sortedS in m)) {
-            m[sortedS] = []
-        }
-
-        m[sortedS].push(s)
+    let m = {} // to store { key: [words] }
+    for(let str of strs) {
+        let key = str.split('').sort().join('');
+        if(!(key in m)) m[key] = [];
+        m[key].push(str)
     }
 
-    return Object.values(m)
+    return Object.values(m);
 };
