@@ -3,53 +3,81 @@
  * @param {string} b
  * @return {number}
  */
-/**
- * My Method 3 - Most Sensible and Easy
- * 1st identify the potential starting indices in 'a' i.e. sub string
- * Then for each keep appending sub string b until it matches the length of 
- * main string a, i.e. b.substring(potentialStartingPoint) + n*b....
- */
+ /**
+ * Method 4, easier,
+ * 1st let's make a sub-sub-sub chain to make it equal length to main,
+ * then add 1 or 2 to check if these big chain includes the main string
+  */
 var repeatedStringMatch = function(sub, main) {
-    if(sub.includes(main)) return 1;
-
-    // let's find all the indices in sub which
-    // matches main[0]
-    // because those are the potential match start points
-    let matchedIndices = [];
-    for(let i = 0; i < sub.length; i++) {
-        if(sub[i] === main[0]) matchedIndices.push(i);
-    }
-
-    // now check for all matchedIndices
     let subLen = sub.length;
     let mainLen = main.length;
-    for(let i of matchedIndices) {
-        let res = sub.substring(i);         // take the rest of the string
-        if(!main.startsWith(res)) continue; // match fails?
-        let count = 1;
-        let resLen = res.length;
+    let n = Math.floor(mainLen / subLen);
+    let res = '';
 
-        while(resLen < mainLen) {
-            let remainingLen = mainLen - resLen;
-            // can we add entire sub?
-            if(remainingLen >= subLen) {
-                res += sub;
-                resLen += subLen;
-            }
-            else {
-                res += sub.substring(0, remainingLen);
-                resLen += remainingLen;
-            }
-            
-            count++;
-        }
-
-        // Check if we have achieved a match
-        if(res === main) return count;
+    let m = n;
+    while(m--) {
+        res += sub;
     }
 
+    // if n was a perfect division, we should find a match = n
+    // if a partial prefix was needed, then it should be 1+n = n + 1
+    // if a partial suffix is needed, still n+1 = n + 1
+    // if both partial prefix and suffix are required then 1+n+1 = n + 2
+    for(let i=0; i<=2; i++) {
+        if(res.includes(main)) return n+i;
+        res += sub;
+    }
+    
     return -1;
 }
+
+// /**
+//  * My Method 3 - Most Sensible and Easy
+//  * 1st identify the potential starting indices in 'a' i.e. sub string
+//  * Then for each keep appending sub string b until it matches the length of 
+//  * main string a, i.e. b.substring(potentialStartingPoint) + n*b....
+//  */
+// 
+//     if(sub.includes(main)) return 1;
+
+//     // let's find all the indices in sub which
+//     // matches main[0]
+//     // because those are the potential match start points
+//     let matchedIndices = [];
+//     for(let i = 0; i < sub.length; i++) {
+//         if(sub[i] === main[0]) matchedIndices.push(i);
+//     }
+
+//     // now check for all matchedIndices
+//     let subLen = sub.length;
+//     let mainLen = main.length;
+//     for(let i of matchedIndices) {
+//         let res = sub.substring(i);         // take the rest of the string
+//         if(!main.startsWith(res)) continue; // match fails?
+//         let count = 1;
+//         let resLen = res.length;
+
+//         while(resLen < mainLen) {
+//             let remainingLen = mainLen - resLen;
+//             // can we add entire sub?
+//             if(remainingLen >= subLen) {
+//                 res += sub;
+//                 resLen += subLen;
+//             }
+//             else {
+//                 res += sub.substring(0, remainingLen);
+//                 resLen += remainingLen;
+//             }
+            
+//             count++;
+//         }
+
+//         // Check if we have achieved a match
+//         if(res === main) return count;
+//     }
+
+//     return -1;
+// }
 
 
 // /**
