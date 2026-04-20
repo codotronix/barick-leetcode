@@ -139,6 +139,7 @@ My leetcode solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codotronix/barick-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/codotronix/barick-leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/codotronix/barick-leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/codotronix/barick-leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/codotronix/barick-leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/codotronix/barick-leetcode/tree/master/0049-group-anagrams) |
@@ -255,6 +256,7 @@ My leetcode solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/codotronix/barick-leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/codotronix/barick-leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/codotronix/barick-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/codotronix/barick-leetcode/tree/master/0143-reorder-list) |
