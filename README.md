@@ -153,6 +153,7 @@ My leetcode solutions
 | [0389-find-the-difference](https://github.com/codotronix/barick-leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/codotronix/barick-leetcode/tree/master/0394-decode-string) |
 | [0541-reverse-string-ii](https://github.com/codotronix/barick-leetcode/tree/master/0541-reverse-string-ii) |
+| [0686-repeated-string-match](https://github.com/codotronix/barick-leetcode/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/codotronix/barick-leetcode/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codotronix/barick-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/codotronix/barick-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -334,4 +335,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/codotronix/barick-leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/codotronix/barick-leetcode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
