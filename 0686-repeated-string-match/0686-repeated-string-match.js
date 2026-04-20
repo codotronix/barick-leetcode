@@ -11,7 +11,7 @@
  */
 var repeatedStringMatch = function(sub, main) {
     if(sub.includes(main)) return 1;
-    
+
     // let's find all the indices in sub which
     // matches main[0]
     // because those are the potential match start points
@@ -21,18 +21,31 @@ var repeatedStringMatch = function(sub, main) {
     }
 
     // now check for all matchedIndices
+    let subLen = sub.length;
+    let mainLen = main.length;
     for(let i of matchedIndices) {
         let res = sub.substring(i);         // take the rest of the string
         if(!main.startsWith(res)) continue; // match fails?
         let count = 1;
+        let resLen = res.length;
 
-        while(res.length < main.length) {
-            res += sub;
+        while(resLen < mainLen) {
+            let remainingLen = mainLen - resLen;
+            // can we add entire sub?
+            if(remainingLen >= subLen) {
+                res += sub;
+                resLen += subLen;
+            }
+            else {
+                res += sub.substring(0, remainingLen);
+                resLen += remainingLen;
+            }
+            
             count++;
         }
 
         // Check if we have achieved a match
-        if(res.substring(0, main.length) === main) return count;
+        if(res === main) return count;
     }
 
     return -1;
