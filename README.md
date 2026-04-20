@@ -260,6 +260,7 @@ My leetcode solutions
 | [0143-reorder-list](https://github.com/codotronix/barick-leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codotronix/barick-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/codotronix/barick-leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/codotronix/barick-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/codotronix/barick-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/codotronix/barick-leetcode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/codotronix/barick-leetcode/tree/master/0739-daily-temperatures) |
@@ -276,6 +277,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/codotronix/barick-leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/codotronix/barick-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/codotronix/barick-leetcode/tree/master/0707-design-linked-list) |
 ## Backtracking
 |  |
@@ -339,4 +341,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/codotronix/barick-leetcode/tree/master/0686-repeated-string-match) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/codotronix/barick-leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
