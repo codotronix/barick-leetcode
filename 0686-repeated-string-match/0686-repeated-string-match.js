@@ -4,6 +4,9 @@
  * @return {number}
  */
 
+/**
+ * My Method 2: 2 pointers
+ */
  var repeatedStringMatch = function(a, b) {
     let i=0; // this will go thru b // the main string
     let j=0; // this will go thru a // the sub string
