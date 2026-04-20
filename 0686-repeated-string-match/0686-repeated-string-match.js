@@ -4,7 +4,7 @@
  * @return {number}
  */
  /**
- * Method 4, easier,
+ * Method 4, The Easiest and The Best,
  * 1st let's make a sub-sub-sub chain to make it equal length to main,
  * then add 1 or 2 to check if these big chain includes the main string
   */
