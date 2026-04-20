@@ -150,6 +150,7 @@ My leetcode solutions
 | [0344-reverse-string](https://github.com/codotronix/barick-leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/codotronix/barick-leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/codotronix/barick-leetcode/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/codotronix/barick-leetcode/tree/master/0394-decode-string) |
 | [0541-reverse-string-ii](https://github.com/codotronix/barick-leetcode/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/codotronix/barick-leetcode/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codotronix/barick-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -258,6 +259,7 @@ My leetcode solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/codotronix/barick-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/codotronix/barick-leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/codotronix/barick-leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/codotronix/barick-leetcode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/codotronix/barick-leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/codotronix/barick-leetcode/tree/master/0883-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codotronix/barick-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -305,6 +307,7 @@ My leetcode solutions
 | [0231-power-of-two](https://github.com/codotronix/barick-leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/codotronix/barick-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/codotronix/barick-leetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/codotronix/barick-leetcode/tree/master/0394-decode-string) |
 ## Merge Sort
 |  |
 | ------- |
