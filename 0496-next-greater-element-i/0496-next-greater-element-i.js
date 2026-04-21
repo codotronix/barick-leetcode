@@ -33,13 +33,18 @@ var nextGreaterElement = function(nums1, nums2) {
     // for all the el of nums2, if available, else -1
 
     let res = new Array(nums1.length).fill(-1); // will hold the answer
-    for(let i=0; i<nums1.length; i++) {
-        for(let j=0; j<nums2.length; j++) {
-            if(nums1[i] === nums2[j]) {
-                res[i] = nextGreaterElement[j];
-            }
-        }
+    let nMap = {} // this will hold el:index for nums2, for easy find
+    for(let i=0; i<nums2.length; i++) {
+        nMap[nums2[i]] = i;
     }
+
+    // now let's go thru nums1 and fill our result list
+    for(let i=0; i<nums1.length; i++) {
+        let num = nums1[i];
+        let j = nMap[num];
+        res[i] = nextGreaterElement[j];
+    }
+
 
     return res;
 };
