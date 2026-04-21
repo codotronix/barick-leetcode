@@ -4,10 +4,8 @@
  * @return {number[]}
  */
 var nextGreaterElement = function(nums1, nums2) {
-    // 1st let's create a nextGreaterElement list
-    // for nums2
     let stack = [];
-    let nextGreaterElement = new Array(nums2.length).fill(-1); // -1 means no greater el on right
+    let ngMap = {} // { n1:ng1, n2:ng2 } a map of num vs next-greater-num
     for(let i=0; i<nums2.length; ++i) {
         // if stack is empty, put this element
         // but instead of putting the el, let's put the index
@@ -22,29 +20,11 @@ var nextGreaterElement = function(nums1, nums2) {
         else {
             while(nums2[i] > nums2[stack.at(-1)]) {
                 let j = stack.pop();
-                nextGreaterElement[j] = nums2[i];
+                ngMap[nums2[j]] = nums2[i]
             }
             // don't forget to push the current el index on the stack
             stack.push(i);
         }
     }
-
-    // At this point nextGreaterElement contains next bigger el 
-    // for all the el of nums2, if available, else -1
-
-    let res = new Array(nums1.length).fill(-1); // will hold the answer
-    let nMap = {} // this will hold el:index for nums2, for easy find
-    for(let i=0; i<nums2.length; i++) {
-        nMap[nums2[i]] = i;
-    }
-
-    // now let's go thru nums1 and fill our result list
-    for(let i=0; i<nums1.length; i++) {
-        let num = nums1[i];
-        let j = nMap[num];
-        res[i] = nextGreaterElement[j];
-    }
-
-
-    return res;
+    return nums1.map(n => ngMap[n] ?? -1);
 };
