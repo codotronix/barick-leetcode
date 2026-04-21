@@ -87,6 +87,7 @@ My leetcode solutions
 | [0383-ransom-note](https://github.com/codotronix/barick-leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/codotronix/barick-leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/codotronix/barick-leetcode/tree/master/0496-next-greater-element-i) |
+| [0767-reorganize-string](https://github.com/codotronix/barick-leetcode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/codotronix/barick-leetcode/tree/master/0771-jewels-and-stones) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/codotronix/barick-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/codotronix/barick-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -157,6 +158,7 @@ My leetcode solutions
 | [0394-decode-string](https://github.com/codotronix/barick-leetcode/tree/master/0394-decode-string) |
 | [0541-reverse-string-ii](https://github.com/codotronix/barick-leetcode/tree/master/0541-reverse-string-ii) |
 | [0686-repeated-string-match](https://github.com/codotronix/barick-leetcode/tree/master/0686-repeated-string-match) |
+| [0767-reorganize-string](https://github.com/codotronix/barick-leetcode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/codotronix/barick-leetcode/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codotronix/barick-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/codotronix/barick-leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -181,6 +183,7 @@ My leetcode solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/codotronix/barick-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/codotronix/barick-leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/codotronix/barick-leetcode/tree/master/0414-third-maximum-number) |
+| [0767-reorganize-string](https://github.com/codotronix/barick-leetcode/tree/master/0767-reorganize-string) |
 | [0883-car-fleet](https://github.com/codotronix/barick-leetcode/tree/master/0883-car-fleet) |
 | [0912-sort-an-array](https://github.com/codotronix/barick-leetcode/tree/master/0912-sort-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/codotronix/barick-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -197,6 +200,7 @@ My leetcode solutions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/codotronix/barick-leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/codotronix/barick-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/codotronix/barick-leetcode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/codotronix/barick-leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -208,6 +212,7 @@ My leetcode solutions
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/codotronix/barick-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/codotronix/barick-leetcode/tree/master/0383-ransom-note) |
+| [0767-reorganize-string](https://github.com/codotronix/barick-leetcode/tree/master/0767-reorganize-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/codotronix/barick-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/codotronix/barick-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/codotronix/barick-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -244,6 +249,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/codotronix/barick-leetcode/tree/master/0011-container-with-most-water) |
+| [0767-reorganize-string](https://github.com/codotronix/barick-leetcode/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codotronix/barick-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/codotronix/barick-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/codotronix/barick-leetcode/tree/master/1448-maximum-69-number) |
