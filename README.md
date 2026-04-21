@@ -157,6 +157,7 @@ My leetcode solutions
 | [0686-repeated-string-match](https://github.com/codotronix/barick-leetcode/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/codotronix/barick-leetcode/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codotronix/barick-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/codotronix/barick-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/codotronix/barick-leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/codotronix/barick-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/codotronix/barick-leetcode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -269,6 +270,7 @@ My leetcode solutions
 | [0739-daily-temperatures](https://github.com/codotronix/barick-leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/codotronix/barick-leetcode/tree/master/0883-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codotronix/barick-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/codotronix/barick-leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
