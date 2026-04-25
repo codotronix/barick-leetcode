@@ -2,43 +2,27 @@
  * @param {number} x
  * @return {number}
  */
- /**
-    My Solution 1: Brute Force
-    Runtime 87ms Beats 21.70%of users with JavaScript
-    Memory 43.58MB Beats 66.22%of users with JavaScript
-  */
-// var mySqrt = function(x) {
-//     if(x<2) return x
-//     let i=2
-
-//     for(i=2; i*i<x; ++i);
-
-//     return (i*i) === x ? i : i-1
-// };
-
-////////////////////////////////////////////////////////////////////////////
-
-/**
-    My Solution 2 - Binary, O(log n)
-    Time: 58 ms (80.65%), Space: 43.5 MB (72.64%)
- */
 var mySqrt = function(x) {
-    if(x<2) return x
+    if(x === 1) return 1;
 
-    let left = 2
-    let right = Math.floor(x/2)
-    let mid = left + Math.floor( (right-left)/2 )
+    let l = 0;  // left
+    let r = x   // right
+    let prevL = 0;
+    let prevR = 0;
 
-    while(left<right) {
-        mid = left + Math.floor( (right-left)/2 )
-        let sq = mid*mid
-        if(sq === x) return mid
-        else if(sq < x) left = mid+1
-        else right = mid-1
+    while(l < r) {
+        prevL = l;
+        prevR = r;
+
+        let mid = l + Math.floor((r-l)/2);
+        let sq = mid * mid;
+        if(sq === x) return mid;
+
+        if(sq < x) l = mid;
+        else r = mid;
+
+        // are we stuck? break out
+        if(l === prevL && r === prevR) break;
     }
-
-    // at this point left === right
-    let sq = left*left
-    if(sq <= x) return left
-    else return left-1
-}
+    return l;
+};
