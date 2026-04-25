@@ -36,9 +36,9 @@ var solution = function(isBadVersion) {
 
         // One last check, to be sure
         // if we're there or almost there?
-        if(minBadIndex > 1 && isBadVersion(minBadIndex-1)) {
-            minBadIndex -= 1;
-        }
+        // if(minBadIndex > 1 && isBadVersion(minBadIndex-1)) {
+        //     minBadIndex -= 1;
+        // }
 
         return minBadIndex;
     };
