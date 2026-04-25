@@ -125,6 +125,7 @@ My leetcode solutions
 | [0414-third-maximum-number](https://github.com/codotronix/barick-leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/codotronix/barick-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/codotronix/barick-leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/codotronix/barick-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/codotronix/barick-leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/codotronix/barick-leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/codotronix/barick-leetcode/tree/master/0792-binary-search) |
@@ -276,6 +277,7 @@ My leetcode solutions
 | [0234-palindrome-linked-list](https://github.com/codotronix/barick-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/codotronix/barick-leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/codotronix/barick-leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/codotronix/barick-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/codotronix/barick-leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/codotronix/barick-leetcode/tree/master/0883-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codotronix/barick-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -286,6 +288,7 @@ My leetcode solutions
 | [0042-trapping-rain-water](https://github.com/codotronix/barick-leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/codotronix/barick-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/codotronix/barick-leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/codotronix/barick-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/codotronix/barick-leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/codotronix/barick-leetcode/tree/master/0883-car-fleet) |
 ## Design
