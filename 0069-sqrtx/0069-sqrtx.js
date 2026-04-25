@@ -7,8 +7,6 @@ var mySqrt = function(x) {
 
     let l = 0;  // left
     let r = x   // right
-    let prevL = 0;
-    let prevR = 0;
 
     while(l < r) {
         prevL = l;
@@ -18,11 +16,8 @@ var mySqrt = function(x) {
         let sq = mid * mid;
         if(sq === x) return mid;
 
-        if(sq < x) l = mid;
-        else r = mid;
-
-        // are we stuck? break out
-        if(l === prevL && r === prevR) break;
+        if(sq < x) l = mid+1;
+        else r = mid-1;
     }
-    return l;
+    return (l*l > x) ? l-1 : l;
 };
