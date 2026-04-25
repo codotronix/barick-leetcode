@@ -131,6 +131,7 @@ My leetcode solutions
 | [0792-binary-search](https://github.com/codotronix/barick-leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/codotronix/barick-leetcode/tree/master/0883-car-fleet) |
 | [0912-sort-an-array](https://github.com/codotronix/barick-leetcode/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/codotronix/barick-leetcode/tree/master/0994-rotting-oranges) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/codotronix/barick-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/codotronix/barick-leetcode/tree/master/1293-three-consecutive-odds) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/codotronix/barick-leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -232,6 +233,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/codotronix/barick-leetcode/tree/master/0036-valid-sudoku) |
+| [0994-rotting-oranges](https://github.com/codotronix/barick-leetcode/tree/master/0994-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -365,4 +367,8 @@ My leetcode solutions
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/codotronix/barick-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/codotronix/barick-leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/codotronix/barick-leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
