@@ -248,6 +248,7 @@ My leetcode solutions
 | [0287-find-the-duplicate-number](https://github.com/codotronix/barick-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codotronix/barick-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/codotronix/barick-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/codotronix/barick-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/codotronix/barick-leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/codotronix/barick-leetcode/tree/master/0792-binary-search) |
 ## Greedy
@@ -373,4 +374,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/codotronix/barick-leetcode/tree/master/0994-rotting-oranges) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/codotronix/barick-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
