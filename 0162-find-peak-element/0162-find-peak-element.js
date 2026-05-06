@@ -3,30 +3,20 @@
  * @return {number}
  */
 var findPeakElement = function(nums) {
-    if(nums.length === 1) return 0;
     let l = 0;
     let r = nums.length-1;
 
-    while(l <= r) {
-        let mid = l + Math.floor((r-l)/2);
+    while(l < r) {
+        let mid = l + Math.floor((r-l) / 2);
 
-        // let's see if we've found a peak
-        if(isPeak(mid, nums)) return mid;
-
-        // boundaries
-        if(mid === 0) l=mid+1;
-        else if(mid === nums.length-1) r=mid-1;
-        else if(nums[mid-1] > nums[mid+1]) r = mid-1;
-        else l = mid+1;
+        // even if there are 2 element, 
+        // they will be l=mid and r
+        // i.e. mid will always have mid+1 available
+        // example 1, [2,3] // l and mid is 2, r is 3
+        // example 2, [3,2] // l and mid is 3, r is 2
+        if(nums[mid+1] > nums[mid]) l = mid+1;
+        else r = mid; // because there may not be a mid-1 for len=2 arr
     }
 
-    return -1;
+    return l;
 };
-
-// let's assume the array contains at least 2 elements
-function isPeak(i, arr) {
-    if(i === 0 && arr[i] > arr[i+1]) return true;
-    else if(i === arr.length-1 && arr[i] > arr[i-1]) return true;
-    else if(arr[i] > arr[i-1] && arr[i] > arr[i+1]) return true;
-    else return false;
-}
