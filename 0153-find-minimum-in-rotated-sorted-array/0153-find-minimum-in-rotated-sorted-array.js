@@ -25,16 +25,14 @@ var findMin = function(nums) {
         let mid = l + Math.floor((r-l)/2);
 
         // examine the right side
-        if(nums[mid] < nums[r]) {
-            // right side is sorted, 
-            // which means min will be < or = mid
-            r = mid;
-        }
-        // right side is broken, min on right
-        // and above condition fails which means nums[mid] > nums[r]
-        else {
-            l = mid+1;
-        }
+        // right side is sorted, 
+        // which means min will be < or = mid
+        if(nums[mid] < nums[r]) r = mid;
+
+        // else
+        // right side is broken, so, min on right
+        // and if condition fails which means nums[mid] > nums[r]
+        else l = mid+1;
     }
 
     // l should point the min
