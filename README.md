@@ -133,6 +133,7 @@ My leetcode solutions
 | [0704-binary-search](https://github.com/codotronix/barick-leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/codotronix/barick-leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/codotronix/barick-leetcode/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/codotronix/barick-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/codotronix/barick-leetcode/tree/master/0883-car-fleet) |
 | [0912-sort-an-array](https://github.com/codotronix/barick-leetcode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/codotronix/barick-leetcode/tree/master/0994-rotting-oranges) |
@@ -258,6 +259,7 @@ My leetcode solutions
 | [0374-guess-number-higher-or-lower](https://github.com/codotronix/barick-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/codotronix/barick-leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/codotronix/barick-leetcode/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/codotronix/barick-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Greedy
 |  |
 | ------- |
