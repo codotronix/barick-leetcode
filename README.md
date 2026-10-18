@@ -133,6 +133,7 @@ My leetcode solutions
 | [0503-next-greater-element-ii](https://github.com/codotronix/barick-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/codotronix/barick-leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/codotronix/barick-leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/codotronix/barick-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/codotronix/barick-leetcode/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/codotronix/barick-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/codotronix/barick-leetcode/tree/master/0883-car-fleet) |
@@ -279,6 +280,7 @@ My leetcode solutions
 | [0070-climbing-stairs](https://github.com/codotronix/barick-leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/codotronix/barick-leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codotronix/barick-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0746-min-cost-climbing-stairs](https://github.com/codotronix/barick-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
