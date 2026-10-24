@@ -1,14 +1,20 @@
 class Solution:
-    def climbStairs(self, n: int, mem={}) -> int:
-        # if n is 0, then 0 ways
-        if n<=0: return 0
-        # if n is 1, then only 1 way
-        if n==1: return 1
-        # if n is 2, then 2 ways, 2 and 1+1
-        if n==2: return 2
+    def climbStairs(self, n: int) -> int:
+        # with recursion DP it is very easy to me
+        # I want to do it in iterative DP
+        # When I tried in whiteboard it looked like a fib series
+        # i.e. just add the prev 2 steps and we are done
 
-        # at each step, we can take either 1 or 2 steps
-        if n not in mem:
-            mem[n] = self.climbStairs(n-1, mem) + self.climbStairs(n-2, mem)
+        if n==1:
+            return 1
+        elif n==2:
+            return 2
 
-        return mem[n]
+        a, b = 1, 2
+
+        for i in range(3, n+1):
+            c = a + b
+            if i==n:
+                return c
+            else:
+                a,b = b,c
