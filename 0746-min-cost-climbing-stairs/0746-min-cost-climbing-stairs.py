@@ -1,23 +1,25 @@
 class Solution:
-    def minCostClimbingStairs(self, cost: list[int], start=0, m=None) -> int:
-        # memory
-        if m is None:
-            m = {}
-
-        # if less than 2 elems left
+    def minCostClimbingStairs(self, cost: list[int]) -> int:
+        # Trying iterative solution
         l = len(cost)
-        if start >= (l-1):
-            return 0
 
-        # if exactly 2 elems left
-        if start == (l-1):
-            return min(cost[start], cost[start+1])
-        
-        if start not in m:
-            # we can either take start el or the start+1 el
-            cost1 = cost[start] + self.minCostClimbingStairs(cost, start+1, m)
-            cost2 = cost[start+1] + self.minCostClimbingStairs(cost, start+2, m)
-            m[start]= min(cost1, cost2)
+        # if less than 3 stairs
+        if l < 3:
+            return min(cost)
 
-        return m[start]
+        # take the values of 1st 2 pos
+        # and start iterating from 3rd step
+        a = cost[0]
+        b = cost[1]         # player can directly jump to 2nd stair
+        c = 0
+
+        for i in range(2, l):
+            c = cost[i] + min(a,b)
+
+            # last step reached?
+            if i == (l-1):
+                return min(b,c)
+            else:
+                a,b = b,c
+
         
