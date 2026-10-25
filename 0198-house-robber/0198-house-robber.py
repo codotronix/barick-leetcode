@@ -1,23 +1,19 @@
 class Solution:
-    def rob(self, nums: list[int], i=0, m=None) -> int:
-        if m is None:
-            m={}
-
-        # number of houses
+    def rob(self, nums: list[int]) -> int:
+        # Let's try iterative
         l = len(nums)
 
-        # out of bound?
-        if i>=l:
-            return 0
+        # if less than 3 house
+        if l<3:
+            return max(nums)
+        
+        # now let's loop from 3rd house till the end
+        a = nums[0]
+        b = max(a, nums[1])
+        c = 0
+        for i in range(2, l):
+            c = max(a + nums[i], b)
+            a,b = b,c
 
-        # only 1 house? take it
-        if i == (l-1):
-            return nums[i]
-
-        if i not in m:
-            # at this point we know we have at least 2 houses
-            cost1 = nums[i] + self.rob(nums, i+2, m)
-            cost2 = nums[i+1] + self.rob(nums, i+3, m)
-            m[i] = max(cost1, cost2)
-
-        return m[i]
+        return c
+        
